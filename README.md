@@ -6,4 +6,4 @@
 엄지우 : back end
 최민락 : finance
 
-[dog]https://4.bp.blogspot.com/-zrLYW36yrRk/WiiXMxr4m0I/AAAAAAACJhE/UjnuVS2kLa0ydniBM8E3dAf0NJAroolDQCEwYBhgL/s1600/cute%2Bwelsh.jpg
+![image](https://user-images.githubusercontent.com/87863185/236775828-10430f67-bc31-4b91-8ab2-ea7b1ace5a3b.png)
